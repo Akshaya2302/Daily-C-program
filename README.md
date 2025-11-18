@@ -15,3 +15,6 @@ check palindrome or not!!
 3rd
 gradeforstudents depend on their score.
 i have used if else laddar.
+TODAY,
+i did 2 programs fibonacci series and then largest of 3 numbers.
+while typing the code of fibonacci i just made many mistakes and then i made it up i went through my mistakes and then i got my output correctly. 
