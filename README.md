@@ -22,6 +22,8 @@ while typing the code of fibonacci i just made many mistakes and then i made it 
 today i started my coding at lab itslef i made many mistakes and then i went to sir he taught me....even though i wrote the code in my laptop i got the incorrect output then i learned from my proffessor he taught me very well.
 this was my contribution 1 [nxm matrix].
 my contribution 2 was a electricity bill.
-11th nov
+20th nov
 i was just confused about the type c conversion so today i just syudied it again and now i have cleared my doubts.Now i will practice more and more programs.
 I have guven a real world example for type c conversion where i have calculated the user's percentage.
+21st niv
+Today i have practised a program in arithmetic operations.
