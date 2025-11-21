@@ -27,3 +27,4 @@ i was just confused about the type c conversion so today i just syudied it again
 I have guven a real world example for type c conversion where i have calculated the user's percentage.
 21st niv
 Today i have practised a program in arithmetic operations.
+I wrote a code for findind and comparision and biggest of 2 no's.
