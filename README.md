@@ -28,3 +28,5 @@ I have guven a real world example for type c conversion where i have calculated 
 21st niv
 Today i have practised a program in arithmetic operations.
 I wrote a code for findind and comparision and biggest of 2 no's.
+22nd nov
+I wrote a program using logical operators with bool expression.
