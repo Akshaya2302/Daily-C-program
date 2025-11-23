@@ -27,3 +27,5 @@ I wrote a code for findind and comparision and biggest of 2 no's.
 22nd nov
 I wrote a program using logical operators with bool expression.
 the 2nd program was reverseofdigits using a two digit number.
+23rd nov
+tpday i have wrote a code on sumofdigits.
