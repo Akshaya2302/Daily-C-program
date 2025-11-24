@@ -29,3 +29,5 @@ I wrote a program using logical operators with bool expression.
 the 2nd program was reverseofdigits using a two digit number.
 23rd nov
 tpday i have wrote a code on sumofdigits.
+24th nov
+due to health issues today i just did only program.
