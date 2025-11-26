@@ -31,3 +31,5 @@ the 2nd program was reverseofdigits using a two digit number.
 tpday i have wrote a code on sumofdigits.
 24th nov
 due to health issues today i just did only program.
+26th nov
+today i jyst started my 60 mins iun lab itself,where i haven learnt about sum of each row and column.
