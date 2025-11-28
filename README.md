@@ -33,3 +33,5 @@ tpday i have wrote a code on sumofdigits.
 due to health issues today i just did only program.
 26th nov
 today i jyst started my 60 mins iun lab itself,where i haven learnt about sum of each row and column.
+28th nov
+Due to my health issues i couldn't do practice well in this week so today i will do my code,
