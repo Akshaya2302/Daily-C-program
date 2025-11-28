@@ -34,4 +34,5 @@ due to health issues today i just did only program.
 26th nov
 today i jyst started my 60 mins iun lab itself,where i haven learnt about sum of each row and column.
 28th nov
-Due to my health issues i couldn't do practice well in this week so today i will do my code,
+Due to my health issues i couldn't do practice well in this week so today i will do my code.
+I don't know what is happening to me im getting so much of health issues so i'll try to code everyday after my health gets better,then also i just wrote a code on quadratic equation today where already i have done it before in the college itself so i did it fast.
