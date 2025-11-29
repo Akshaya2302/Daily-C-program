@@ -36,3 +36,6 @@ today i jyst started my 60 mins iun lab itself,where i haven learnt about sum of
 28th nov
 Due to my health issues i couldn't do practice well in this week so today i will do my code.
 I don't know what is happening to me im getting so much of health issues so i'll try to code everyday after my health gets better,then also i just wrote a code on quadratic equation today where already i have done it before in the college itself so i did it fast.
+29th nov
+Today i learnt about booleans and then conditionnal statements in w3schools where i have already know some little bit about it so today i just glanced about those.
+after that i wrote a code on check whether the given year is a leap year.
