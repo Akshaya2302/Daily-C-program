@@ -42,3 +42,4 @@ after that i wrote a code on check whether the given year is a leap year.
 now,i just understood the code of counting the digits at first after reading the concept i just used while loop it was correct but i forgot aboout the incremnt and then i took a glance of the code in my lab material after that i understood well.
 30th nov
 i have learnt about conditonal statements and then i wrote a code on finding a day using switch statement.
+My 2nd code is product of all the digits in a given number i got the logic correctly but i have missed some while loop conditions and then i just corrected myself........
