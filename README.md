@@ -40,3 +40,5 @@ I don't know what is happening to me im getting so much of health issues so i'll
 Today i learnt about booleans and then conditionnal statements in w3schools where i have already know some little bit about it so today i just glanced about those.
 after that i wrote a code on check whether the given year is a leap year.
 now,i just understood the code of counting the digits at first after reading the concept i just used while loop it was correct but i forgot aboout the incremnt and then i took a glance of the code in my lab material after that i understood well.
+30th nov
+i have learnt about conditonal statements and then i wrote a code on finding a day using switch statement.
