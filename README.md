@@ -43,3 +43,8 @@ now,i just understood the code of counting the digits at first after reading the
 30th nov
 i have learnt about conditonal statements and then i wrote a code on finding a day using switch statement.
 My 2nd code is product of all the digits in a given number i got the logic correctly but i have missed some while loop conditions and then i just corrected myself........
+1st dec
+today i have practised 3 programs
+1st = printing odd and even numbers using while loop
+2nd = reverse of digits not just 2 digits
+3rd = sum and product using forloop
