@@ -48,3 +48,5 @@ today i have practised 3 programs
 1st = printing odd and even numbers using while loop
 2nd = reverse of digits not just 2 digits
 3rd = sum and product using forloop
+3rd dec
+Today i wrote a program using while loop where i did a mistake in that..i have missed the part of using 0 means i forgot to stop the loop.After that i just corrected it.
