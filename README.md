@@ -50,3 +50,5 @@ today i have practised 3 programs
 3rd = sum and product using forloop
 3rd dec
 Today i wrote a program using while loop where i did a mistake in that..i have missed the part of using 0 means i forgot to stop the loop.After that i just corrected it.
+4th dec
+im trying my best to do more problems but im getting so sad because it tooooo hard i will try again and again.
