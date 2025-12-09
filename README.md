@@ -55,3 +55,6 @@ im trying my best to do more problems but im getting so sad because it tooooo ha
 I'am struggling a lot i dont know what is happening why im feeling it is so hard but also i have tried a program with minor mistake.
 7th dec
 COntinously i have missed my 2 days of practising so today i have practised total 3 programs where it was an easy program and already i have done those programs in my lab.
+9th dec
+Due to my health issues i couldn't do my c program properly  
+so today i have done a program where it was teached by my teacher in class,the porgram was about counting a vowel in a gievn word using string function.
