@@ -58,3 +58,8 @@ COntinously i have missed my 2 days of practising so today i have practised tota
 9th dec
 Due to my health issues i couldn't do my c program properly  
 so today i have done a program where it was teached by my teacher in class,the porgram was about counting a vowel in a gievn word using string function.
+10th dec
+today  i did 3 programs at my lab itself.
+1.about pointers
+2.insertion of an element in an array.
+3.swapping using pointers.
