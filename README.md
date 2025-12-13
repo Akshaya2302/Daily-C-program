@@ -63,3 +63,6 @@ today  i did 3 programs at my lab itself.
 1.about pointers
 2.insertion of an element in an array.
 3.swapping using pointers.
+13th Dec
+Due to my health issues and internals on monday i couldn't do coding properly for 2 days but today i learnt functions in C which is very important topic for my IA2.
+i was struggling to learn i learnt inly little bit thats it i have more and more to learn.
