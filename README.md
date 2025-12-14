@@ -66,3 +66,5 @@ today  i did 3 programs at my lab itself.
 13th Dec
 Due to my health issues and internals on monday i couldn't do coding properly for 2 days but today i learnt functions in C which is very important topic for my IA2.
 i was struggling to learn i learnt inly little bit thats it i have more and more to learn.
+14th Dec
+I have my IA2 exams from tomorrow so i will do my 60 mins of practice tomorrow and i will not do on tuesday again coz of physics on wednesday.after that i will continue my practise.
