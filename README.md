@@ -68,3 +68,5 @@ Due to my health issues and internals on monday i couldn't do coding properly fo
 i was struggling to learn i learnt inly little bit thats it i have more and more to learn.
 14th Dec
 I have my IA2 exams from tomorrow so i will do my 60 mins of practice tomorrow and i will not do on tuesday again coz of physics on wednesday.after that i will continue my practise.
+22nd Dec
+Due to my IA2 i didn't practice C code for one week.
