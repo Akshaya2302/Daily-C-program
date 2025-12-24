@@ -71,3 +71,5 @@ I have my IA2 exams from tomorrow so i will do my 60 mins of practice tomorrow a
 22nd Dec
 Due to my IA2 i didn't practice C code for one week.
 Today i have learnt about continue and break statement in w3schools.
+24th Dec
+Today i will learn about theory and then i will solve some problems.
