@@ -73,3 +73,5 @@ Due to my IA2 i didn't practice C code for one week.
 Today i have learnt about continue and break statement in w3schools.
 24th Dec
 Today i will learn about theory and then i will solve some problems.
+26th
+I have added a program to check whether the given number is even or odd using array functions.
