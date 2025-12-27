@@ -75,3 +75,5 @@ Today i have learnt about continue and break statement in w3schools.
 Today i will learn about theory and then i will solve some problems.
 26th
 I have added a program to check whether the given number is even or odd using array functions.
+27th Dec
+Even though i learnt some things in functions,i was just struggling to write a function but now i learnt it deeply nand also i wrote a code feeling light about functions now but not fully light, and i will try it again and again i will practice some programs also based on functions.
