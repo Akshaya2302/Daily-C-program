@@ -81,3 +81,5 @@ Even though i learnt some things in functions,i was just struggling to write a f
 i have learnt functions before and now i learnt it with ae= example where i have done 5-6 programs based on functions.
 29th Dec
 I did a program on factorial using functions.
+jan 1st 2026
+tomorrow i have practical exam so i practised recursion concept and some programs.
