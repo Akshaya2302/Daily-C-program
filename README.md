@@ -85,3 +85,4 @@ jan 1st 2026
 tomorrow i have practical exam so i practised recursion concept and some programs.
 6th jan 2026
 Today i learnt about bubblesort and i have understood the concept very well.
+I learnt about recursion and pointers , also i did programming every day since 5 days.
