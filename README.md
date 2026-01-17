@@ -90,3 +90,5 @@ Learnt about strings some basics only,but i need to practise for my final practi
 Today i learnt 2 programs which were aboout the strings and i have my final exam on this month 16th jan.
 im practising daily one program ...
 and now toady i have to prepare for my lab exams tomorrow(16th jan).
+Im done with all the concepts in C programming.
+from tomorrow i have to focus on my theory.
