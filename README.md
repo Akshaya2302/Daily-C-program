@@ -93,3 +93,4 @@ and now toady i have to prepare for my lab exams tomorrow(16th jan).
 Im done with all the concepts in C programming.
 from tomorrow i have to focus on my theory.
 Today i done with my module 1...
+Posted a C code on structures.
