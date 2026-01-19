@@ -8,11 +8,11 @@ Here, you will find solutions to various logical problems, data structures, and 
 - [x] Basic Input/Output & Arithmetic
 - [x] Conditional Statements (If-Else, Switch)
 - [x] Loops (While, Do-While, For)
-- [x] Functions & Recursion
+- [x] Functions
 - [x] Arrays (1D & 2D) & Strings
 - [x] Pointers & Memory Management
 - [x] Structures
-
+- [x] Recursion
 ## Daily Learning Log
 
 ### **Phase 1: The Basics (Conditionals & Loops)**
