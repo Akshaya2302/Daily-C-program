@@ -20,12 +20,12 @@ Here, you will find solutions to various logical problems, data structures, and 
 * **Day 2:** Palindrome Checker.
    Logic:Loop to reverse the number $\rightarrow$ Compare with original.
 * **Day 3:** Student Grading System using `if-else` ladder.
-* Day 4: Fibonacci Series & Largest of 3 Numbers.
+* **Day 4:** Fibonacci Series & Largest of 3 Numbers.
     * *Reflections:* Made syntax errors initially but debugged them to get the correct output.
 
 ### **Phase 2: Arrays & Logic Building (Nov 20 - Nov 30)**
-* Nov 20:  Type Conversion. calculated user percentage to understand implicit/explicit casting.
-* Nov 21:  Arithmetic Operations (Comparisons & logic).
+* **Nov 20:**  Type Conversion. calculated user percentage to understand implicit/explicit casting.
+* **Nov 21:**  Arithmetic Operations (Comparisons & logic).
 * **Nov 22:** Boolean Logic & Reversing a 2-digit number.
 * **Nov 23:** Sum of Digits calculation.
 * **Nov 26:** **Matrix Operations:** Sum of rows and columns (NxM Matrix).
@@ -57,7 +57,7 @@ Here, you will find solutions to various logical problems, data structures, and 
 * **Jan 6:** **Bubble Sort.** Understood the sorting logic clearly.
 * **Jan 10:** String Manipulation (Basics & Logic).
 * **Jan 19:** **Structures.** Posted code demonstrating C Structures.
-
+* **Jan 20:** Learned about more `structurs` programs.
 ## Reflections
 * **Challenges:** Faced health issues in November/December which broke my streak, but I remained consistent whenever possible.
 * **Growth:** Initially struggled with syntax errors and logic building, but after practicing concepts like Pointers and Recursion, I feel much more confident.
