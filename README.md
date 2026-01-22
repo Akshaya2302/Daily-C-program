@@ -58,7 +58,8 @@ Here, you will find solutions to various logical problems, data structures, and 
 * **Jan 10:** String Manipulation (Basics & Logic).
 * **Jan 19:** **Structures.** Posted code demonstrating C Structures.
 * **Jan 20:** Learned about more `structurs` programs.
-* **Jan 21:** Insertion and deletion an element in an array.
+* **Jan 21:** Insertion of an element in an array.
+* **Jan 22:** Deletion of an element in an array.
 ## Reflections
 * **Challenges:** Faced health issues in November/December which broke my streak, but I remained consistent whenever possible.
 * **Growth:** Initially struggled with syntax errors and logic building, but after practicing concepts like Pointers and Recursion, I feel much more confident.
